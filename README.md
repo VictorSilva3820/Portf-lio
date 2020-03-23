@@ -1,2 +1,3 @@
 # Portfólio
-Conteudo completo porem ainda há à necessidade de torna-lo responssivo
+OBS: Serão feitas algumas alterações para que o site torne-se responsivo. Algumas alterações de conteúdo também poderam ocorrer
+futuramente.
